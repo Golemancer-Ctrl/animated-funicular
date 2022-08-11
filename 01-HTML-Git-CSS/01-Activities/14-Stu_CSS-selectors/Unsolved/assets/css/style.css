@@ -1,13 +1,15 @@
-/* TODO: Label selector type */
+/* the selector sets the webpage's font-family to Lucidia */
 * {
     font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
   }
 
-/* TODO: Label selector type */
+/* the selector gives the body a background color of lemonchiffon */
 body {
   background-color: lemonchiffon;
 }
 
+/* the selector gives the header and footer specific width,
+height, line-height, color, and background color */
 header,
 footer {
   width: 100%;
@@ -17,17 +19,18 @@ footer {
   background-color: #191970;
 }
 
+/* the selector gives all figure elements a width of 200px and a set background color */
 figure {
   width: 200px;
   background-color: #f0ead6;
 }
 
-/* TODO: Label selector type */
+/* the selector bolds the highlighted text up one category */
 .highlighted-text {
   font-weight: bolder;
 }
 
-/* TODO: Label selector type */
+/* the selector grants the contact section a specific background color */
 #contact-section {
   background-color: #f0ead6;
 }

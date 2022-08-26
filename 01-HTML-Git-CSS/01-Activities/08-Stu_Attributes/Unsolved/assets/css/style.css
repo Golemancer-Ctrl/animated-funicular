@@ -3,7 +3,8 @@
 }
 
 .title {
-  color: darkblue;
+  background-color: darkblue;
+  
 }
 
 #email {
@@ -11,7 +12,7 @@
 }
 
 #github {
-  background-color: lightsteelblue;
+  background-color: yellow;
 }
 
 #portfolio {
